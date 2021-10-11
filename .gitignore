@@ -1,0 +1,9 @@
+build/*.png
+build/*.gif
+build/*.log
+build/*.bin
+node_modules
+venv
+__pycache__
+res/bars
+res/font
